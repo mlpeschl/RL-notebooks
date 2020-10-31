@@ -1,5 +1,3 @@
 # stat-notebooks
 
-Open sourced notebooks from various projects. Currently available:
-
-* gvine_nonlinear/gvine_presentation: Features simulation studies for generalized linear vine constructions with the gamCopula package (https://github.com/tvatter/gamCopula)
+Open sourced notebooks from various projects. If you are curious, some of these projects get published to ![my website](mlpeschl.com).
